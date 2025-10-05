@@ -244,6 +244,7 @@ $reports = getUserReports($user_id);
             font-size: 30px;
             color: #dee2e6;
             margin-bottom: 1rem;
+            padding: 1rem;
         }
         footer {
             background: var(--dark);
